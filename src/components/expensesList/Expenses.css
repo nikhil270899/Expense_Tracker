@@ -1,0 +1,13 @@
+.expense-class{
+    text-align: center;
+}
+
+.list-class{
+    margin-bottom: 2rem;
+}
+
+.delete-class{
+    cursor: pointer;
+    margin-top: 1rem;
+
+}
