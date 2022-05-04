@@ -1,0 +1,14 @@
+.expense-form{
+    padding: 2rem;
+}
+
+.form-container{
+    border: 1px solid rgb(83, 79, 79);
+ margin: 2rem;
+ width: 34rem;
+ text-align: center;
+}
+
+.button-class{
+    margin-bottom: 1rem;
+}
